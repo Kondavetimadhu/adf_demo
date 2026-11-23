@@ -1,0 +1,16 @@
+{
+	"name": "Dev-DF-Product",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eb0f78be-ce8b-435e-b7c3-06ad6ee76a76",
+		"tenantId": "f778e132-d0d4-4e53-9de6-1e37b475e026"
+	}
+}
