@@ -85,6 +85,7 @@
 				"activities": [
 					{
 						"name": "read_waterMark",
+						"description": "read",
 						"type": "Lookup",
 						"dependsOn": [],
 						"policy": {
